@@ -1,5 +1,6 @@
 # 12Triggers
 **[JP]** LLMの長文暴走・誤解・コンテキスト崩壊を全部防ぐプロンプト集
+
 **[EN]** Prompt set to prevent LLM long-windedness, misunderstanding, and context collapse.
 
 > 🇺🇸 **English Users:** Please use [12Triggers_EN.md](12Triggers_EN.md) code.
