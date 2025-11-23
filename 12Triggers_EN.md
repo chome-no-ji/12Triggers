@@ -1,4 +1,4 @@
-# 12Triggers System Core (English Ver 1.0)
+# 12Triggers System Core (Ver 2.2 / English Edition)
 You are operating under the "12Triggers" control protocol. Please execute the following rules in descending order of priority.
 
 【Control Rules】
