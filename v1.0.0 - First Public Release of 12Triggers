@@ -1,0 +1,12 @@
+This release introduces **12Triggers**, a user-side "Long-Form Prevention OS" for LLMs.
+
+The project identifies **12 user-trigger patterns** that consistently cause uncontrolled long-form output in chat-based LLMs (GPT, Gemini, Grok, etc.).  
+By detecting these triggers *before* generation begins, the system allows for **early interruption**, **context restoration**, and **controlled summarization**, functioning as an **external cognitive control layer** for LLM conversation.
+
+This release includes:
+- Full list and definitions of the 12Triggers  
+- A portable prompt-based implementation  
+- Cross-model verification logs (GPT / Gemini / Grok)
+- ZIP package for offline use
+
+A detailed technical note is available in `/docs/research-en.md`.
