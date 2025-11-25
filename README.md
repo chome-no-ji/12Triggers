@@ -1,6 +1,6 @@
 # 12Triggers
-**The ultimate prompt set to prevent LLM long-windedness and context collapse.**
 LLMの長文暴走・誤解・コンテキスト崩壊を全部防ぐプロンプト集。
+**The ultimate prompt set to prevent LLM long-windedness and context collapse.**
 
 <div align="center">
   <a href="#-日本語-japanese">🇯🇵 日本語 (Japanese)</a> | 
