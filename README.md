@@ -1,4 +1,7 @@
 # 12Triggers
+A user-side "Long-Form Prevention OS" for LLMs.
+This project classifies 12 user-derived triggers that cause uncontrolled long-form responses in chat-based LLMs, and proposes an external control layer for early detection and interruption.
+
 **The ultimate prompt set to prevent LLM long-windedness and context collapse.**
 LLMの長文暴走・誤解・コンテキスト崩壊を全部防ぐプロンプト集。
 
